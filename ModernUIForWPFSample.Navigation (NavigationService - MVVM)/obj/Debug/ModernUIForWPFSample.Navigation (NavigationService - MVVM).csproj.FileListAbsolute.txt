@@ -1,0 +1,74 @@
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).exe.config
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).exe
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).pdb
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\FirstFloor.ModernUI.dll
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.dll
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\Newtonsoft.Json.dll
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\System.Windows.Interactivity.dll
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\FirstFloor.ModernUI.xml
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.xml
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\Newtonsoft.Json.xml
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).csprojResolveAssemblyReference.cache
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\MainWindow.baml
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\Views\ResourcesControl.baml
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\Views\StepsControl.baml
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\MainWindow.g.cs
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\Views\ResourcesControl.g.cs
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\Views\StepsControl.g.cs
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\App.g.cs
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM)_MarkupCompile.cache
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM)_MarkupCompile.lref
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\App.baml
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).g.resources
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation.Properties.Resources.resources
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).csproj.GenerateResource.Cache
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).exe
+D:\DevApps\GitHub\ModernUISamples\src\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).pdb
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).exe.config
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).exe
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).pdb
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).exe
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).pdb
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).csprojResolveAssemblyReference.cache
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\MainWindow.baml
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\Views\ResourcesControl.baml
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\Views\StepsControl.baml
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\MainWindow.g.cs
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\Views\ResourcesControl.g.cs
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\Views\StepsControl.g.cs
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\App.g.cs
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM)_MarkupCompile.cache
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM)_MarkupCompile.lref
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\App.baml
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).g.resources
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation.Properties.Resources.resources
+C:\Users\Win 7\Downloads\C#\ModernUIForWPFSample.Navigation (NavigationService - MVVM)\obj\Debug\ModernUIForWPFSample.Navigation (NavigationService - MVVM).csproj.GenerateResource.Cache
